@@ -1,11 +1,15 @@
-## Fizzbuzz in Java
+## Fizzbuzz in Java
 
-This repo is my playground for Java. I have started by building a simple HelloWorld app and will go on to build Fizzbuzz.
+I have used some simple exercises to learn some Java and have built a simple FizzBuzz game. 
 
-### Learnt so far
+Next up I will use JUnit to TDD a new iteration of fizzbuzz. 
+
+### Learnt so far
 
 - Numbers
 - strings
 - arrays
 - importing from utils
 - ArrayList and Iterator
+- using scanner to get User input 
+
